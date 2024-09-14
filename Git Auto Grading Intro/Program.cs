@@ -22,11 +22,11 @@
             // Code
             return 0; // Placeholder
         }
-        //public static int Multiply(int a, int b)
-        //{
-        //    // Code
-        //    return 0; // Placeholder
-        //}
+        public static int Multiply(int a, int b)
+        {
+            // Code
+            return 0; // Placeholder
+        }
         public static decimal Divide(int a, int b)
         {
             // Code
