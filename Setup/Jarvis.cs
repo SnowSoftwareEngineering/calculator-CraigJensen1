@@ -29,7 +29,7 @@ namespace Setup
         public void TestDivision()
         {
             decimal result = StudentProject.Program.Divide(6, 3);
-            Assert.Equal(2, result);
+            Assert.Equal(2m, result);
         }
     }
 }
