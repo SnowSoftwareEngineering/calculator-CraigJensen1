@@ -15,7 +15,7 @@
         public static int Add(int a, int b)
         {
             // Code
-            return a + b; // Placeholder
+            return 0; // Placeholder
         }
         public static int Subtract(int a, int b)
         {
